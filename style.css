@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    height: 200px;
+    padding: 20px 0;
+}
+
+.grey{
+    background-color: grey;
+}
+
+.box{
+    background-color: red;
+    height: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
